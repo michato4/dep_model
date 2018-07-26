@@ -1,0 +1,3 @@
+function [res] = E101(E,phi,theta,psi)
+ res=cos(phi).*cos(theta).*((-1).*sin(theta).*E(1,1,3)+cos(theta).*(sin(psi).*E(1,2,2)+cos(psi).*E(2,1,2)))+((-1).*cos(psi).*sin(phi)+cos(phi).*sin(psi).*sin(theta)).*((-1).*sin(theta).*E(1,2,2)+cos(theta).*(sin(psi).*E(1,3,1)+cos(psi).*E(2,2,1)))+(sin(phi).*sin(psi)+cos(phi).*cos(psi).*sin(theta)).*((-1).*sin(theta).*E(2,1,2)+cos(theta).*(sin(psi).*E(2,2,1)+cos(psi).*E(3,1,1)));
+end

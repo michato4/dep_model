@@ -1,0 +1,2 @@
+function [res] = E200(E,phi,theta,psi)
+ res=sin(theta).^2.*E(1,1,3)+cos(theta).*((-2).*sin(psi).*sin(theta).*E(1,2,2)+cos(theta).*sin(psi).^2.*E(1,3,1)+(-2).*cos(psi).*sin(theta).*E(2,1,2)+cos(theta).*sin(2.*psi).*E(2,2,1)+cos(psi).^2.*cos(theta).*E(3,1,1));end
