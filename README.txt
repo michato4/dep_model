@@ -66,7 +66,6 @@ If you use this piece of software in your research, please cite the following pa
 
 Michálek, Tomáš, Aude Bolopion, Zdeněk Hurák, and Michaël Gauthier. “Control-Oriented Model of Dielectrophoresis and Electrorotation for Arbitrarily Shaped Objects.” Physical Review E 99, no. 5 (May 24, 2019): 053307. https://doi.org/10.1103/PhysRevE.99.053307.
 
-```
 @article{PhysRevE.99.053307,
   title = {Control-oriented model of dielectrophoresis and electrorotation for arbitrarily shaped objects},
   author = {Mich\'alek, Tom\'a\ifmmode \check{s}\else \v{s}\fi{} and Bolopion, Aude and Hur\'ak, Zden\ifmmode \check{e}\else \v{e}\fi{}k and Gauthier, Micha\"el},
@@ -81,7 +80,6 @@ Michálek, Tomáš, Aude Bolopion, Zdeněk Hurák, and Michaël Gauthier. “Con
   doi = {10.1103/PhysRevE.99.053307},
   url = {https://link.aps.org/doi/10.1103/PhysRevE.99.053307}
 }
-```
 
 Versions:
 ---------
