@@ -2,7 +2,8 @@ Description:
 ------------
 This is an example of the implementation of the control-oriented model for dielectrophoretical force and torque for arbitrarily shaped objects polarized by an arbitrary electric field.
 It serves as an electronic supplement to the following publication:
-TODO: add citation here
+
+Michálek, Tomáš, Aude Bolopion, Zdeněk Hurák, and Michaël Gauthier. “Control-Oriented Model of Dielectrophoresis and Electrorotation for Arbitrarily Shaped Objects.” Physical Review E 99, no. 5 (May 24, 2019): 053307. https://doi.org/10.1103/PhysRevE.99.053307.
 
 In order to run the example you should have installed the following:
 --------------------------------------------------------------------
@@ -61,8 +62,26 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>.
 
-If you use this piece of software in your research, please cite the following paper
-(TODO: fill in the citing info)
+If you use this piece of software in your research, please cite the following paper:
+
+Michálek, Tomáš, Aude Bolopion, Zdeněk Hurák, and Michaël Gauthier. “Control-Oriented Model of Dielectrophoresis and Electrorotation for Arbitrarily Shaped Objects.” Physical Review E 99, no. 5 (May 24, 2019): 053307. https://doi.org/10.1103/PhysRevE.99.053307.
+
+```
+@article{PhysRevE.99.053307,
+  title = {Control-oriented model of dielectrophoresis and electrorotation for arbitrarily shaped objects},
+  author = {Mich\'alek, Tom\'a\ifmmode \check{s}\else \v{s}\fi{} and Bolopion, Aude and Hur\'ak, Zden\ifmmode \check{e}\else \v{e}\fi{}k and Gauthier, Micha\"el},
+  journal = {Phys. Rev. E},
+  volume = {99},
+  issue = {5},
+  pages = {053307},
+  numpages = {10},
+  year = {2019},
+  month = {May},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevE.99.053307},
+  url = {https://link.aps.org/doi/10.1103/PhysRevE.99.053307}
+}
+```
 
 Versions:
 ---------
